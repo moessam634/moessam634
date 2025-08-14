@@ -69,14 +69,13 @@ Results-driven **Flutter Developer** passionate about building **scalable, high-
 ---
 
 ## 🚀 Featured Projects  
+### 📊 [Zbooma Client Dashboard](https://play.google.com/store/apps/details?id=zbooma.aplicfdx)  
+An internal dashboard for tracking service progress, reducing manual customer communication with **real-time backend updates**.  
+**Tech:** Flutter, API Integration  
 
 ### 🛒 [Angelina – E-Commerce App](https://github.com/moessam634/angelina_app)  
 A modern e-commerce app with **product filtering**, **search**, **category navigation**, and **pagination** for a smooth shopping experience.  
 **Tech:** Flutter, Bloc, REST API, Clean UI/UX  
-
-### 📊 [Zbooma Client Dashboard](https://play.google.com/store/apps/details?id=zbooma.aplicfdx)  
-An internal dashboard for tracking service progress, reducing manual customer communication with **real-time backend updates**.  
-**Tech:** Flutter, API Integration  
 
 ### 🚗 [Safe Drive – Vehicle Safety App](https://github.com/moessam634/safe_drive)  
 Real-time theft alerts, emergency contacts, and **Google Maps** integration for enhanced vehicle safety.  
