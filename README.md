@@ -16,20 +16,55 @@ Results-driven **Flutter Developer** passionate about building **scalable, high-
 - 💬 Passionate about **problem-solving** and **continuous learning**  
 
 ---
-
 ## 🛠 Tech Stack  
 
-**Languages & Frameworks:**  
-`Dart` • `Flutter` • `C#`  
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
+        <br>Flutter
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" />
+        <br>Dart
+      </td>
+       <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postman" height="40"/><br>Postman
+      </td>
+  <td align="center" width="96">
+ <img src="https://skillicons.dev/icons?i=firebase" height="40"/><br>Firebase
+  </td>
+  <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=sqlite" height="40"/><br>SQLite
+      </td>
+      <td align="center" width="96">
+       <img src="https://img.icons8.com/color/96/000000/workflow.png" height="40"/><br>Bloc
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+        <br>VS Code
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+        <br>GitHub
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+        <br>Figma
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+        <br>Git
+      </td>
+   
 
-**State Management & Architecture:**  
-`Bloc` • `Cubit` • `MVVM`  
-
-**Databases:**  
-`Hive` • `SQLite` • `SQL`  
-
-**Tools & Platforms:**  
-`Firebase` • `Git` • `Postman` • `Figma` • `Adobe XD`  
+ <td align="center" width="96">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" height="40"/><br>Adobe XD
+      </td>
+    </tr>
+  </table>
+</p>
 
 ---
 
@@ -61,4 +96,5 @@ Real-time theft alerts, emergency contacts, and **Google Maps** integration for 
 - **Email:** [mohamedessam122002@gmail.com](mailto:mohamedessam122002@gmail.com)  
 
 ---
-💡 *"Code is like humor. When you have to explain it, it’s bad."*  
+
+💡 *"Code is like humor. When you have to explain it, it’s bad."*
