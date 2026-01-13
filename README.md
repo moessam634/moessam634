@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohamed Essam  
 
-🚀 **Software Engineer** | **DevOps Engineer** |    
+🚀 **Software Engineer** | **DevOps Engineer**   
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://mohamedessamportfolio.netlify.app)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mohamed-essam-b81b5b21b)  
